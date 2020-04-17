@@ -1,0 +1,36 @@
+html {
+    font-family: arial, sans-serif;
+    color: rgb(34,34,34);
+    display: block;
+  }
+  
+  a {
+    color: rgb(34,34,34);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 270px;
+    width: 500px;
+  }
+  
+  .header-links {
+    float: right;
+  }
+  
+  header a {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  
+  header {
+    margin-top: 1%;
+  }
