@@ -2,6 +2,7 @@ html {
     font-family: arial, sans-serif;
     color: rgb(34,34,34);
     display: block;
+    position: relative;
   }
 
   #page-container {
@@ -25,7 +26,7 @@ html {
     margin-right: auto;
     height: 270px;
     width: 500px;
-    margin-top: 5em;
+    margin-top: 8em;
   }
   
   .header-links {
@@ -82,6 +83,7 @@ html {
     border-style: solid;
     border-width: 1px;
     border-color: #e4e4e4;
+    margin-top: 12em;
   }
   
   footer a {
@@ -92,98 +94,4 @@ html {
   .footerlinks_conditions {
     float: right;
   }
-  
-  
-  
-  html {
-    font-family: arial, sans-serif;
-    color: rgb(34,34,34);
-    display: block;
-  }
-  
-  a {
-    color: rgb(34,34,34);
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-    cursor: pointer;
-  }
-  
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 270px;
-    width: 500px;
-    margin-top: 5em;
-  }
-  
-  .header-links {
-    float: right;
-  }
-  
-  header a {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
-  
-  header {
-    margin-top: 1%;
-  }
-  
-  form {
-    display: block;
-    text-align: center;
-    position: center;
-  } 
-  
-  #search_bar {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 25px;
-    border-style: solid;
-    border-color: #c7c7c7;
-    border-width: 1px;
-    width: 40%;
-    height: 2em;
-  }
-  
-  input[type=submit] {
-    width: 10em;
-    padding: 10px;
-    margin: 1%;
-    margin-top: 2%;
-    background-color: #f2f2f2;
-    font-family: arial, sans-serif;
-    border-style: solid;
-    border-color: #f2f2f2;
-    font-size: 1em;
-    color: #5f6368;
-  }
-  
-  footer {
-    display: block;
-    bottom: 0;
-    width: 100%;
-    background-color: #f2f2f2;
-    padding: 1em;
-    margin-left: -1em;
-    border-style: solid;
-    border-width: 1px;
-    border-color: #e4e4e4;
-    margin-top: 7em;
-  }
-  
-  footer a {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
-  
-  .footerlinks_conditions {
-    float: right;
-  }
-  
   
