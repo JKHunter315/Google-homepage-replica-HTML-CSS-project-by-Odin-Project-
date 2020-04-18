@@ -2,7 +2,11 @@ html {
     font-family: arial, sans-serif;
     color: rgb(34,34,34);
     display: block;
-    height: 100%;
+  }
+
+  #page-container {
+      position: relative;
+      min-height: 100vh;
   }
   
   a {
